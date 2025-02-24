@@ -1,2 +1,2 @@
 # OFX_Reader
-Modelo de leitura de arquivos OFX e OFC
+Modelo básico de leitura de arquivos OFX e OFC
